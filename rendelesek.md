@@ -23,5 +23,5 @@
 
 Alma:
 Brokkoli:
-Narancs:
-Paradicsom:
+3 - Narancs: 20 
+4 - Paradicsom: 25
