@@ -21,7 +21,8 @@
 
 ## Vásárolt mennyiség
 
-Alma:
-Brokkoli:
+
+1 - Alma: 20 
+2 - Brokkoli: 30
 3 - Narancs: 20 
 4 - Paradicsom: 25
